@@ -1,0 +1,7 @@
+interface:
+  display_name: "Firmware Flowchart Engineer"
+  short_description: "Create and audit editable firmware draw.io flowcharts"
+  brand_color: "#1F4E79"
+  default_prompt: "Use $firmware-flowchart-engineer to trace this firmware and create or audit an editable draw.io flowchart."
+policy:
+  allow_implicit_invocation: true
